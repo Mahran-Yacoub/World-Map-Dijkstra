@@ -28,7 +28,8 @@
    **Mahran Yacoub From Palestine**
    
   # Screenshot of GUI
-
+  
+   ![Screenshot 2021-07-19 100500](https://user-images.githubusercontent.com/77076151/126117249-d59a5aa0-af1a-421b-bc1e-65c6e8295204.png)
 
   
    
