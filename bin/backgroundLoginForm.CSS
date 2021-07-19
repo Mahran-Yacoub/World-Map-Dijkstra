@@ -1,0 +1,58 @@
+.bodybg{
+ -fx-background-image: url('./world-map.gif');
+ -fx-background-size: 100% 100%;
+}
+
+.button1 {
+	border-radius: 5px;
+}
+
+.buttonSetting{
+ -fx-background-color:  #2E86C1 ;
+ 
+}
+
+.border{
+	
+ -fx-border-color:  #2E86C1 ;
+ 
+}
+
+
+.fillBlueColor{
+	
+-fx-text-fill:  #2E86C1 ;
+ 
+}
+
+.fillWhiteColor{
+	
+-fx-text-fill:  #FFFFFF ;
+ 
+}
+
+
+.background{
+	
+ -fx-background-color:  #FFFFFF ;
+ 
+}
+
+.buttonSetting2{
+ -fx-background-color:  #2E86C1 ;
+ -fx-background-radius:  50 50 50 50 ;
+ 
+ 
+}
+
+.border2{
+	
+ -fx-border-color:  #BF0B18 ;
+ 
+}
+
+.fontFill{
+	
+ -fx-text-fill:  #FFFFFF ;
+ 
+}

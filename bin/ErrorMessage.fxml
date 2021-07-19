@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="293.0" prefWidth="442.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.Error">
+   <children>
+      <Label fx:id="label" alignment="CENTER" prefHeight="53.0" prefWidth="512.0" style="-fx-background-color: #2E86C1;" text="Error Message" textFill="#fcf1f1">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="message" alignment="CENTER" prefHeight="312.0" prefWidth="495.0" style="-fx-background-color: #FFFFFF; -fx-border-color: #2E86C1; -fx-border-width: 2;" text="This Is Error Message">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</VBox>
