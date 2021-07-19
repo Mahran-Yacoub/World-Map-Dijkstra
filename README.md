@@ -21,9 +21,10 @@
  # Description 
  
    ***This project is used to represent a world map in 2D way and give you the shortest available path between two countries depend on data that is stored 
-   in text files about countries and flights between countries***
+   in text files about countries and flights between countries using Dijkstra algorithm.***
    
   # Developer 
+  
    **Mahran Yacoub From Palestine**
    
   # Screenshot of GUI
