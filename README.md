@@ -21,8 +21,12 @@
  # Description 
  
    ***This project is used to represent a world map in 2D way and give you the shortest available path between two countries depend on data that is stored 
-   in text files about countries and flights between countries using Dijkstra algorithm and then display the shortest path , details of the path and 
-   total distance***
+   in text files about countries and flights between countries using Dijkstra algorithm.
+   
+ ## Scenarios
+
+   ***An user can select two countries using either mouse or keyboard and then click on run button to give a shortest path (if it is avaliable)
+    and table of path details and total distance between two selected countries.***
    
   # Developer 
   
